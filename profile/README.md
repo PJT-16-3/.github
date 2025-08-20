@@ -34,10 +34,6 @@
 | 이동욱 | 팀원 |백엔드 | <a href="https://github.com/Leedong-uk"><img alt="이동욱" src="https://github.com/Leedong-uk.png?size=100" width="90" height="90" /></a> |
 
 
-## 시스템 아키텍처
-![시스템아키텍처](assets/architecture.png)
-
-
 ## ✨ 기능 설명
 <details>
 <summary><b>계좌 등록 기능</b></summary>
@@ -154,6 +150,7 @@
 </div>
 </details>
 
+
 ## ✨ 최종발표 자료 
 <a href = "https://www.miricanvas.com/"> 지비 최종발표 자료 </a> -> 링크 다시 걸기
   
@@ -162,6 +159,8 @@
 
 [![Video Label](http://img.youtube.com/vi/HifUM1FGUK8/0.jpg)](https://youtu.be/HifUM1FGUK8?t=0s) -> 올리고 수정
 
+## 시스템 아키텍처
+![시스템아키텍처](assets/architecture.png)
 
 ## Etc
 <details>
