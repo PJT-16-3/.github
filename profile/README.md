@@ -1,6 +1,8 @@
 
 # 🏠 지비(ZIBI) — 청약 정보 웹앱
-![zibi_logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" alt="zibi_logo" width="180" />
+</p>
 
 
 ## 📌서비스 소개
