@@ -33,7 +33,7 @@
 
 
 ## 시스템 아키텍처
-![시스템아키텍처](assets/architecture.png)
+![시스템아키텍처](profile/assets/architecture.png)
 
 
 ## ✨ 기능 설명
@@ -167,7 +167,7 @@
 <div markdown="1">
 <br>
   
-![image](assets/16반_3팀_ZIBI_Figma.png)
+![image](profile/assets/16반_3팀_ZIBI_Figma.png)
 
 </div>
 </details>
@@ -177,7 +177,7 @@
 <div markdown="1">
 <br>
   
-![image](assets/16반_3팀_ZIBI_ERD_Diagram.png)
+![image](profile/assets/16반_3팀_ZIBI_ERD_Diagram.png)
 
 </div>
 </details>
