@@ -22,7 +22,7 @@
 
 ### 팀원 소개
 |name|role|position|Github|
-|------|---|---|
+|------|---|---|---|
 | 정성훈 | 팀장 | 프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
 | 염정우 | 팀원 |프론트엔드 | <a href="https://github.com/yeomine"><img alt="염정우" src="https://github.com/yeomine.png?size=100" width="90" height="90" /></a> |
 | 박준영 | 팀원 |프론트엔드 | <a href="https://github.com/TTprotocol"><img alt="박준영" src="https://github.com/TTprotocol.png?size=100" width="90" height="90" /></a> |
