@@ -45,81 +45,133 @@ PWA 지원(오프라인/자동 업데이트)
 | 이동욱 | 백엔드 | <a href="https://github.com/Leedong-uk"><img alt="이동욱" src="https://github.com/Leedong-uk.png?size=100" width="90" height="90" /></a> |
 
 
-## 서비스 아키텍처
-![시스템구성도](https://github.com/user-attachments/assets/e5c05abe-e4a6-4ac7-9228-7f96d0e26707)
+## 시스템 아키텍처
+![시스템아키텍처](assets/architecture.png)
 
 
 ## ✨ 기능 설명
 <details>
-<summary><b>등산길 이상 신고 기능</b></summary>
+<summary><b>계좌 등록 기능</b></summary>
 <div markdown="1">
 <br>
-<p><i>등산 중 야생동물, 자연재해 등으로 인한 등산로 이상 발생 시, 사용자가 사진과 함께 등산로 이상 정보를 신고합니다다.</i></p>
-<p><i>사용자들은 등산 시 지도에서 다른 사용자들이 신고한 내용을 확인할 수 있습니다.</i></p>
+<p><i>메인 페이지에서 실제 청약 계좌를 등록할 수 있습니다.</i></p>
+<p><i>예치금 충족률에 따라 캐릭터가 바뀌며, 원하는 평수대에 따른 예치금 충족률을 한 눈에 파악할 수 있습니다..</i></p>
   
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/7196d0be-3d6f-4b71-a51a-698a63345180)
-
+![image]()
 </div>
 </details>
+
 <details>
-<summary><b>긴급 신고 기능</b></summary>
+<summary><b>가점 계산기 기능</b></summary>
 <div>
 <br>
-<p><i>등산 중 조난 사고 발생 시, 사용자가 sos 버튼을 클릭하면 위치정보와 함께 간편하게 119에 문자신고를 할 수 있습니다.</i></p>
-<p><i>사용자 현재 위치에 해당하는 국가지점번호를 계산하여 신고내용에 포함하도록 한다. 구급대원들이 쉽게 위치를 찾을 수 있도록 합니다.</i></p>
+<p><i>보다 쉬운 질문들을 통해 가점을 계산할 수 있습니다.</i></p>
+<p><i>회원가입 때 받은 개인 정보들과, 간단한 6가지의 질문들을 통해 사용자의 가점을 계산할 수 있습니다.</i></p>
   
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/d0c8a8bd-2408-4972-94e4-966f20677b24) 
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/d26d5cd2-479a-46cc-ab17-2f007cd55499)
+![image]() 
+![image]()
 
 </div>
 </details>
+
 <details>
-<summary><b>많이 간 등산로 제공 기능</b></summary>
+<summary>선호 정보 설정 및 청약 추천 기능</summary>
 <div markdown="1">
 <br>
-<p><i>사용자들이 등산시작버튼을 누르면 위치정보가 수집되고, 등산종료 버튼을 누르면 경로 정보가 데이터베이스에 저장됩니다.</i></p>
-<p><i>각 산 별 등산정보를 활용하여 사용자들이 가장 많이 이용한 등산로 정보를 <유저들이 많이 다닌 등산로>라는 이름으로 제공합니다.</i></p>
+<p><i>사용자가 본인의 선호 정보를 설정하여 그 선호 정보에 맞는 청약을 청약 당첨 확률이 높은 순으로 추천해 줍니다.</i></p>
+
+![image]()
+
+</div>
+</details>
+
+<details>
+<summary><b>당첨 확률 계산 기능</b></summary>
+<div markdown="1">
+<br>
+<p><i>사용자의 계좌 정보, 가점 정보 등을 토대로 각 청약마다의 당첨 확률을 계산하여 제공합니다.</i></p>
+<p><i>히스토그램과 KNN 모델을 합하여 당첨 확률을 계산하여 보여줍니다.</i></p>
   
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/451bbcfa-4e76-4c8d-be63-f23fe6a433ab)
+![image]()
 
 </div>
 </details>
+
 <details>
-<summary>회원가입 및 로그인</summary>
+<summary>순위 계산 기능</summary>
 <div markdown="1">
 <br>
-<p><i>사용자들은 이메일 인증을 통해 회원가입을 할 수 있습니다.</i></p>
+<p><i>특정 청약에 대한 사용자의 순위가 무엇인 지 계산하여 보여줍니다.</i></p>
 
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/43236185-0527-4e87-bc05-0dbffefd6fb6)
+![image]()
 
 </div>
 </details>
+
 <details>
-<summary>날씨 및 추천옷차림 정보</summary>
+<summary>청약 공고 리스트 보기 기능</summary>
 <div markdown="1">
 <br>
-<p><i>추후 구현</i></p>
+<p><i>사용자들은 현재 올라와 있는 모든 청약 공고를 한 눈에 볼 수 있습니다.</i></p>
+<p><i>특정 청약 공고 자세히 보기 버튼을 누르면, 해당 청약 공고의 평수, 가격, 위치, 즐겨찾기 수, 조회 수, 당첨 확률, 순위 계산, 청약일정, 주변 인프라 정보 등 해당 청약에 관련된 모든 정보들을 볼 수 있습니다.</i></p>
 
+![image]()
 
 </div>
 </details>
+
 <details>
-<summary>커뮤니티</summary>
+<summary>지도 기능</summary>
 <div markdown="1">
 <br>
-<p><i>추후 구현</i></p>
+<p><i>지도 기능을 통해 현재 올라온 모든 청약 공고에 대한 위치를 바로 알 수 있습니다.</i></p>
+<p><i>필터 기능을 통해 원하는 지역의 공고를 바로 볼 수 있습니다.</i></p>
 
+![image]()
+
+</div>
+</details>
+
+<details>
+<summary>달력 기능</summary>
+<div markdown="1">
+<br>
+<p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
+
+![image]()
+
+</div>
+</details>
+
+<details>
+<summary>즐겨찾기 기능</summary>
+<div markdown="1">
+<br>
+<p><i>청약 공고를 보며 관심있는 공고에 즐겨찾기를 하여 즐겨찾기 한 공고를 모아 볼 수 있습니다.</i></p>
+
+![image]()
+
+</div>
+</details>
+
+<details>
+<summary>달력 기능</summary>
+<div markdown="1">
+<br>
+<p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
+
+![image]()
 
 </div>
 </details>
 
 ## ✨ 최종발표 자료 
-<a href = "https://www.miricanvas.com/v/13bl7xv"> 하이킹플래너 최종발표 자료 </a>
+<a href = "https://www.miricanvas.com/"> 지비 최종발표 자료 </a> -> 링크 다시 걸기
   
 ## 📱 시연 영상
 <i>클릭 시 유튜브로 이동</i>
 
-[![Video Label](http://img.youtube.com/vi/HifUM1FGUK8/0.jpg)](https://youtu.be/HifUM1FGUK8?t=0s)
+[![Video Label](http://img.youtube.com/vi/HifUM1FGUK8/0.jpg)](https://youtu.be/HifUM1FGUK8?t=0s) -> 올리고 수정
 
 
 ## Etc
@@ -128,9 +180,7 @@ PWA 지원(오프라인/자동 업데이트)
 <div markdown="1">
 <br>
   
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/e69f5011-870e-4c23-9259-b0680d374d75)
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/295d0376-86b2-40e4-b4c1-2c3238a50ef2)
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/9f5ecd09-6f65-45e9-8cc2-765dc411207b)
+![image](assets/ZIBI_Figma.png)
 
 </div>
 </details>
@@ -140,24 +190,9 @@ PWA 지원(오프라인/자동 업데이트)
 <div markdown="1">
 <br>
   
-![image](https://github.com/Hiking-Planner/.github/assets/56792033/2397cc7c-751a-442f-96de-97b9489e0c93)
+![image](assets/16반_3팀_ZIBI_ERD_Diagram.png)
 
 </div>
 </details>
-<details>
-<summary>기능명세서</summary>
-<div markdown="1">
-<br>
-<a href="https://docs.google.com/spreadsheets/d/1uio1x40lJNK0rvMlclpTGyjlhik27eB5/edit?usp=sharing&ouid=117878540187699087371&rtpof=true&sd=true"> 하이킹플래너 기능명세서 바로가기 </a>
-</div>
-</details>
-<details>
-<summary>주요 기능 구현방식</summary>
-<div markdown="1">
-<br>
-<a href="https://github.com/Hiking-Planner/HikingPlanner_BE"> 백엔드 레포지토리 readme 바로가기 </a>
-<br>
-<a href="https://github.com/Hiking-Planner/PythonClusteringSever"> 경로 클러스터링 파이썬 서버 readme 바로가기 </a>
-</div>
-</details>
+
 
