@@ -62,7 +62,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>선호 정보 설정 및 청약 추천 기능</summary>
+<summary><b>선호 정보 설정 및 청약 추천 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>사용자가 본인의 선호 정보를 설정하여 그 선호 정보에 맞는 청약을 청약 당첨 확률이 높은 순으로 추천해 줍니다.</i></p>
@@ -85,7 +85,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>순위 계산 기능</summary>
+<summary><b>순위 계산 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>특정 청약에 대한 사용자의 순위가 무엇인 지 계산하여 보여줍니다.</i></p>
@@ -96,7 +96,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>청약 공고 리스트 보기 기능</summary>
+<summary><b>청약 공고 리스트 보기 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>사용자들은 현재 올라와 있는 모든 청약 공고를 한 눈에 볼 수 있습니다.</i></p>
@@ -108,7 +108,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>지도 기능</summary>
+<summary><b>지도 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>지도 기능을 통해 현재 올라온 모든 청약 공고에 대한 위치를 바로 알 수 있습니다.</i></p>
@@ -120,7 +120,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>달력 기능</summary>
+<summary><b>달력 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
@@ -131,7 +131,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>즐겨찾기 기능</summary>
+<summary><b>즐겨찾기 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>청약 공고를 보며 관심있는 공고에 즐겨찾기를 하여 즐겨찾기 한 공고를 모아 볼 수 있습니다.</i></p>
@@ -142,7 +142,7 @@ P- WA 지원(오프라인/자동 업데이트)
 </details>
 
 <details>
-<summary>달력 기능</summary>
+<summary><b>달력 기능</b></summary>
 <div markdown="1">
 <br>
 <p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
