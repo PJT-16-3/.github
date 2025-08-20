@@ -167,7 +167,7 @@
 <div markdown="1">
 <br>
   
-![image](assets/ZIBI_Figma.png)
+![image](assets/16반_3팀_ZIBI_Figma.png)
 
 </div>
 </details>
