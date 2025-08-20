@@ -21,15 +21,15 @@
 - 2025.07 ~ 2025.08
 
 ### 팀원 소개
-|name|position|Github|
+|name|role|position|Github|
 |------|---|---|
-| 정성훈 | 프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
-| 염정우 | 프론트엔드 | <a href="https://github.com/yeomine"><img alt="염정우" src="https://github.com/yeomine.png?size=100" width="90" height="90" /></a> |
-| 박준영 | 프론트엔드 | <a href="https://github.com/TTprotocol"><img alt="박준영" src="https://github.com/TTprotocol.png?size=100" width="90" height="90" /></a> |
-| 김도현 | 백엔드 | <a href="https://github.com/bikdh1109"><img alt="김도현" src="https://github.com/bikdh1109.png?size=100" width="90" height="90" /></a> |
-| 김지민 | 백엔드 | <a href="https://github.com/rlawlals119"><img alt="김지민" src="https://github.com/rlawlals119.png?size=100" width="90" height="90" /></a> |
-| 유채현 | 백엔드 | <a href="https://github.com/chaeging"><img alt="유채현" src="https://github.com/chaeging.png?size=100" width="90" height="90" /></a> |
-| 이동욱 | 백엔드 | <a href="https://github.com/Leedong-uk"><img alt="이동욱" src="https://github.com/Leedong-uk.png?size=100" width="90" height="90" /></a> |
+| 정성훈 | 팀장 | 프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
+| 염정우 | 팀원 |프론트엔드 | <a href="https://github.com/yeomine"><img alt="염정우" src="https://github.com/yeomine.png?size=100" width="90" height="90" /></a> |
+| 박준영 | 팀원 |프론트엔드 | <a href="https://github.com/TTprotocol"><img alt="박준영" src="https://github.com/TTprotocol.png?size=100" width="90" height="90" /></a> |
+| 김도현 | 팀원 |백엔드 | <a href="https://github.com/bikdh1109"><img alt="김도현" src="https://github.com/bikdh1109.png?size=100" width="90" height="90" /></a> |
+| 김지민 | 팀원 |백엔드 | <a href="https://github.com/rlawlals119"><img alt="김지민" src="https://github.com/rlawlals119.png?size=100" width="90" height="90" /></a> |
+| 유채현 | 팀원 |백엔드 | <a href="https://github.com/chaeging"><img alt="유채현" src="https://github.com/chaeging.png?size=100" width="90" height="90" /></a> |
+| 이동욱 | 팀원 |백엔드 | <a href="https://github.com/Leedong-uk"><img alt="이동욱" src="https://github.com/Leedong-uk.png?size=100" width="90" height="90" /></a> |
 
 
 ## 시스템 아키텍처
