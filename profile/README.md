@@ -29,7 +29,7 @@
 - PWA 지원(오프라인/자동 업데이트)
 <br>
 ** 모든 기능은 시연 영상에 자세하게 나와있습니다 **
-
+---
 
 ## 📽️ 프로젝트 소개
 
@@ -47,7 +47,7 @@
 | 유채현 | 팀원 |백엔드 | <a href="https://github.com/chaeging"><img alt="유채현" src="https://github.com/chaeging.png?size=100" width="90" height="90" /></a> |
 | 이동욱 | 팀원 |백엔드 | <a href="https://github.com/Leedong-uk"><img alt="이동욱" src="https://github.com/Leedong-uk.png?size=100" width="90" height="90" /></a> |
 
-
+---
 ## ✨ 기능 설명
 <details>
 <summary><b>계좌 등록 기능</b></summary>
@@ -178,7 +178,7 @@
 </div>
 </details>
 
-
+---
 
 ## ✨ 최종발표 자료 
 <a href = "https://www.miricanvas.com/v2/design2/v/e2dc0509-187e-4430-9705-c7bb7378db64/"> 지비 최종발표 자료 </a>
@@ -188,7 +188,7 @@
 
 [![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
 
-
+---
 ## Etc
 <details>
 <summary>Figma</summary>
