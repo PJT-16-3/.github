@@ -78,7 +78,7 @@
 
 <div align="center">
   <img src="assets/calculator.png" alt="가점 계산기" width="30%" />
-  <img src="assets/calculator_info.png" alt="가점 정보" width="30%" />
+  <img src="assets/calculator_info.png" alt="가점 정보" width="33%" />
 </div>
 </div>
 </details>
