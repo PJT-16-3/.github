@@ -12,9 +12,13 @@
 - 사용자 선호 기반 맞춤형 청약 추천(지역/평수/가격/유형)
 - 청약 목록/상세/즐겨찾기, 당첨 가능성 표시
 - 지도에서 청약 단지 확인(마커 클릭 시 하단 카드)
-- FAQ(공지)
+- 즐겨찾기 공고 달력에 일정 표시
+- AI 챗봇
+- 실시간 알림 기능
+- FAQ
 - 이메일 가입/인증 + 카카오 로그인
 - PWA 지원(오프라인/자동 업데이트)
+- (모든 기능은 시연 영상에 자세하게 나와있습니다.)
 
 
 ## 💁 프로젝트 소개
@@ -25,7 +29,7 @@
 ### 팀원 소개
 |name|role|position|Github|
 |------|---|---|---|
-| 정성훈 | 팀장 | 프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
+| 정성훈 | 팀장 |프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
 | 염정우 | 팀원 |프론트엔드 | <a href="https://github.com/yeomine"><img alt="염정우" src="https://github.com/yeomine.png?size=100" width="90" height="90" /></a> |
 | 박준영 | 팀원 |프론트엔드 | <a href="https://github.com/TTprotocol"><img alt="박준영" src="https://github.com/TTprotocol.png?size=100" width="90" height="90" /></a> |
 | 김도현 | 팀원 |백엔드 | <a href="https://github.com/bikdh1109"><img alt="김도현" src="https://github.com/bikdh1109.png?size=100" width="90" height="90" /></a> |
@@ -53,8 +57,8 @@
 <p><i>보다 쉬운 질문들을 통해 가점을 계산할 수 있습니다.</i></p>
 <p><i>회원가입 때 받은 개인 정보들과, 간단한 6가지의 질문들을 통해 사용자의 가점을 계산할 수 있습니다.</i></p>
   
-![image]() 
-![image]()
+![image](assets/calculator.png) 
+![image](assets/calculator_info.png)
 
 </div>
 </details>
@@ -65,8 +69,8 @@
 <br>
 <p><i>사용자가 본인의 선호 정보를 설정하여 그 선호 정보에 맞는 청약을 청약 당첨 확률이 높은 순으로 추천해 줍니다.</i></p>
 
-![image]()
-
+![image](assets/preference.png)
+![image](assets/recommendation.png)
 </div>
 </details>
 
@@ -77,7 +81,7 @@
 <p><i>사용자의 계좌 정보, 가점 정보 등을 토대로 각 청약마다의 당첨 확률을 계산하여 제공합니다.</i></p>
 <p><i>히스토그램과 KNN 모델을 합하여 당첨 확률을 계산하여 보여줍니다.</i></p>
   
-![image]()
+![image](assets/probability.png))
 
 </div>
 </details>
@@ -88,7 +92,7 @@
 <br>
 <p><i>특정 청약에 대한 사용자의 순위가 무엇인 지 계산하여 보여줍니다.</i></p>
 
-![image]()
+![image](assets/rank.png)
 
 </div>
 </details>
@@ -100,8 +104,8 @@
 <p><i>사용자들은 현재 올라와 있는 모든 청약 공고를 한 눈에 볼 수 있습니다.</i></p>
 <p><i>특정 청약 공고 자세히 보기 버튼을 누르면, 해당 청약 공고의 평수, 가격, 위치, 즐겨찾기 수, 조회 수, 당첨 확률, 순위 계산, 청약일정, 주변 인프라 정보 등 해당 청약에 관련된 모든 정보들을 볼 수 있습니다.</i></p>
 
-![image]()
-
+![image](assets/subscription_list.png)
+![image](assets/subscription_detail.png)
 </div>
 </details>
 
@@ -112,7 +116,7 @@
 <p><i>지도 기능을 통해 현재 올라온 모든 청약 공고에 대한 위치를 바로 알 수 있습니다.</i></p>
 <p><i>필터 기능을 통해 원하는 지역의 공고를 바로 볼 수 있습니다.</i></p>
 
-![image]()
+![image](assets/map.png)
 
 </div>
 </details>
@@ -123,7 +127,7 @@
 <br>
 <p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
 
-![image]()
+![image](assets/calendar.png)
 
 </div>
 </details>
@@ -134,18 +138,18 @@
 <br>
 <p><i>청약 공고를 보며 관심있는 공고에 즐겨찾기를 하여 즐겨찾기 한 공고를 모아 볼 수 있습니다.</i></p>
 
-![image]()
+![image](assets/favorite.png)
 
 </div>
 </details>
 
 <details>
-<summary><b>달력 기능</b></summary>
+<summary><b>AI 챗봇 기능</b></summary>
 <div markdown="1">
 <br>
-<p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
+<p><i>AI 챗봇에게 궁금한 것들을 물어볼 수 있습니다.</i></p>
 
-![image]()
+![image](assets/chatbot.png)
 
 </div>
 </details>
