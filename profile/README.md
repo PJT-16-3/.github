@@ -155,7 +155,8 @@
 <a href = "https://www.miricanvas.com/"> 지비 최종발표 자료 </a> -> 링크 다시 걸기
   
 ## 📱 시연 영상
-<i>클릭 시 유튜브로 이동</i>
+<i>(밑 사진 클릭 시 유튜브로 이동)</i>
+
 [![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
 
 ## 시스템 아키텍처
