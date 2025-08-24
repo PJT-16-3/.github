@@ -133,7 +133,7 @@
 <div align="center">
   <img src="assets/subscription_list.png" alt="공고 리스트" width=30%" />
   <img src="assets/subscription_detail.png" alt="공고 상세" width="30%" />
-  <img src="assets/infra.jpg" alt="인프라 정보" width="26%" />
+  <img src="assets/infra.jpg" alt="인프라 정보" width="26.5%" />
 </div>
 </div>
 </details>
