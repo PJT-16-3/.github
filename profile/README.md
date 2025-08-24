@@ -171,7 +171,7 @@
 
 
 ## ✨ 최종발표 자료 
-<a href = "https://www.miricanvas.com/"> 지비 최종발표 자료 </a> -> 링크 다시 걸기
+<a href = "https://www.miricanvas.com/v2/design2/v/e2dc0509-187e-4430-9705-c7bb7378db64/"> 지비 최종발표 자료 </a>
   
 ## 📱 시연 영상
 <i>(밑 사진 클릭 시 유튜브로 이동)</i>
