@@ -179,8 +179,6 @@
 
 [![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
 
-## 시스템 아키텍처
-![시스템아키텍처](assets/architecture.png)
 
 ## Etc
 <details>
@@ -202,5 +200,15 @@
 
 </div>
 </details>
+</details>
 
+<details>
+<summary>시스템 아키텍처</summary>
+<div markdown="1">
+<br>
+  
+![image](assets/architecture.png)
+
+</div>
+</details>
 
