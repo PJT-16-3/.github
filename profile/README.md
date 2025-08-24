@@ -91,7 +91,7 @@
 
 <div align="center">
   <img src="assets/preference.png" alt="선호 설정" width="30%" />
-  <img src="assets/recommendation.png" alt="추천 결과" width="33%" />
+  <img src="assets/recommendation.png" alt="추천 결과" width="30%" />
 </div>
 </div>
 </details>
