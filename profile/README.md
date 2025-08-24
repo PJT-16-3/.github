@@ -61,6 +61,7 @@
 <br>
 <p><i>메인 페이지에서 실제 청약 계좌를 등록할 수 있습니다.</i></p>
 <p><i>예치금 충족률에 따라 캐릭터가 바뀌며, 원하는 평수대에 따른 예치금 충족률을 한 눈에 파악할 수 있습니다.</i></p>
+<p><i>또한 이번 달 예치금 납입 유무와 지금까지 예치금의 총 납입 횟수를 확인할 수 있습니다.</i></p>
 
 <div align="center">
   <img src="assets/account_nonconnection.png" alt="계좌 미연결" width="34%" />
@@ -75,6 +76,7 @@
 <br>
 <p><i>보다 쉬운 질문들을 통해 가점을 계산할 수 있습니다.</i></p>
 <p><i>회원가입 때 받은 개인 정보들과, 간단한 6가지의 질문들을 통해 사용자의 가점을 계산할 수 있습니다.</i></p>
+<p><i>개인 정보가 바뀌거나, 각 질문에 대한 답에 변동사항이 생기면, 수정을 통해 바로 가점을 다시 계산할 수 있습니다.</i></p>
 
 <div align="center">
   <img src="assets/calculator.png" alt="가점 계산기" width="30%" />
@@ -131,6 +133,7 @@
 <div align="center">
   <img src="assets/subscription_list.png" alt="공고 리스트" width=30%" />
   <img src="assets/subscription_detail.png" alt="공고 상세" width="30%" />
+  <img src="assets/infra.png" alt="인프라 정보" width="30%" />
 </div>
 </div>
 </details>
