@@ -116,7 +116,7 @@
 <p><i>지도 기능을 통해 현재 올라온 모든 청약 공고에 대한 위치를 바로 알 수 있습니다.</i></p>
 <p><i>필터 기능을 통해 원하는 지역의 공고를 바로 볼 수 있습니다.</i></p>
 
-![image](assets/map.png)
+![image](assets/map.jpg)
 
 </div>
 </details>
@@ -127,7 +127,7 @@
 <br>
 <p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
 
-![image](assets/calendar.png)
+![image](assets/calendar.jpg)
 
 </div>
 </details>
@@ -138,7 +138,7 @@
 <br>
 <p><i>청약 공고를 보며 관심있는 공고에 즐겨찾기를 하여 즐겨찾기 한 공고를 모아 볼 수 있습니다.</i></p>
 
-![image](assets/favorite.png)
+![image](assets/favorite.jpg)
 
 </div>
 </details>
