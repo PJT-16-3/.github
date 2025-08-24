@@ -47,8 +47,8 @@
 <p><i>예치금 충족률에 따라 캐릭터가 바뀌며, 원하는 평수대에 따른 예치금 충족률을 한 눈에 파악할 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/account_nonconnection.png" alt="계좌 미연결" width="45%" />
-  <img src="assets/account_connection.png" alt="계좌 연결" width="45%" />
+  <img src="assets/account_nonconnection.png" alt="계좌 미연결" width="30%" />
+  <img src="assets/account_connection.png" alt="계좌 연결" width="30%" />
 </div>
 </div>
 </details>
@@ -61,8 +61,8 @@
 <p><i>회원가입 때 받은 개인 정보들과, 간단한 6가지의 질문들을 통해 사용자의 가점을 계산할 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/calculator.png" alt="가점 계산기" width="45%" />
-  <img src="assets/calculator_info.png" alt="가점 정보" width="45%" />
+  <img src="assets/calculator.png" alt="가점 계산기" width="30%" />
+  <img src="assets/calculator_info.png" alt="가점 정보" width="30%" />
 </div>
 </div>
 </details>
@@ -74,8 +74,8 @@
 <p><i>사용자가 본인의 선호 정보를 설정하여 그 선호 정보에 맞는 청약을 청약 당첨 확률이 높은 순으로 추천해 줍니다.</i></p>
 
 <div align="center">
-  <img src="assets/preference.png" alt="선호 설정" width="45%" />
-  <img src="assets/recommendation.png" alt="추천 결과" width="45%" />
+  <img src="assets/preference.png" alt="선호 설정" width="30%" />
+  <img src="assets/recommendation.png" alt="추천 결과" width="30%" />
 </div>
 </div>
 </details>
@@ -88,7 +88,7 @@
 <p><i>히스토그램과 KNN 모델을 합하여 당첨 확률을 계산하여 보여줍니다.</i></p>
 
 <div align="center">
-  <img src="assets/probability.png" alt="당첨 확률" width="70%" />
+  <img src="assets/probability.png" alt="당첨 확률" width="40%" />
 </div>
 </div>
 </details>
@@ -100,7 +100,7 @@
 <p><i>특정 청약에 대한 사용자의 순위가 무엇인 지 계산하여 보여줍니다.</i></p>
 
 <div align="center">
-  <img src="assets/rank.png" alt="순위 계산" width="70%" />
+  <img src="assets/rank.png" alt="순위 계산" width="40%" />
 </div>
 </div>
 </details>
@@ -113,8 +113,8 @@
 <p><i>특정 청약 공고 자세히 보기 버튼을 누르면, 해당 청약 공고의 평수, 가격, 위치, 즐겨찾기 수, 조회 수, 당첨 확률, 순위 계산, 청약일정, 주변 인프라 정보 등 해당 청약에 관련된 모든 정보들을 볼 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/subscription_list.png" alt="공고 리스트" width="45%" />
-  <img src="assets/subscription_detail.png" alt="공고 상세" width="45%" />
+  <img src="assets/subscription_list.png" alt="공고 리스트" width=30%" />
+  <img src="assets/subscription_detail.png" alt="공고 상세" width="30%" />
 </div>
 </div>
 </details>
@@ -127,7 +127,7 @@
 <p><i>필터 기능을 통해 원하는 지역의 공고를 바로 볼 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/map.jpg" alt="지도" width="70%" />
+  <img src="assets/map.jpg" alt="지도" width="40%" />
 </div>
 </div>
 </details>
@@ -139,7 +139,7 @@
 <p><i>달력에 즐겨찾기 한 공고들의 청약 공고 일정을 바로 확인할 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/calendar.jpg" alt="달력" width="70%" />
+  <img src="assets/calendar.jpg" alt="달력" width="40%" />
 </div>
 </div>
 </details>
@@ -151,7 +151,7 @@
 <p><i>청약 공고를 보며 관심있는 공고에 즐겨찾기를 하여 즐겨찾기 한 공고를 모아 볼 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/favorite.jpg" alt="즐겨찾기" width="70%" />
+  <img src="assets/favorite.jpg" alt="즐겨찾기" width="40%" />
 </div>
 </div>
 </details>
@@ -163,7 +163,7 @@
 <p><i>AI 챗봇에게 궁금한 것들을 물어볼 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/chatbot.png" alt="챗봇" width="70%" />
+  <img src="assets/chatbot.png" alt="챗봇" width="40%" />
 </div>
 </div>
 </details>
