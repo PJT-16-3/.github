@@ -63,7 +63,7 @@
 <p><i>예치금 충족률에 따라 캐릭터가 바뀌며, 원하는 평수대에 따른 예치금 충족률을 한 눈에 파악할 수 있습니다.</i></p>
 
 <div align="center">
-  <img src="assets/account_nonconnection.png" alt="계좌 미연결" width="35%" />
+  <img src="assets/account_nonconnection.png" alt="계좌 미연결" width="34%" />
   <img src="assets/account_connection.png" alt="계좌 연결" width="30%" />
 </div>
 </div>
