@@ -22,12 +22,12 @@
 ** 모든 기능은 시연 영상에 자세하게 나와있습니다 **
 
 
-## 💁 프로젝트 소개
+## 📽️ 프로젝트 소개
 
-### 프로젝트 기간
+### 🗓️ 프로젝트 기간
 - 2025.07 ~ 2025.08
 
-### 팀원 소개
+### 👪 팀원 소개
 |name|role|position|Github|
 |------|---|---|---|
 | 정성훈 | 팀장 |프론트엔드 | <a href="https://github.com/seonghoon1201"><img alt="정성훈" src="https://github.com/seonghoon1201.png?size=100" width="90" height="90" /></a> |
