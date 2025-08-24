@@ -157,7 +157,7 @@
 ## 📱 시연 영상
 <i>클릭 시 유튜브로 이동</i>
 
-[![Video Label]([http://img.youtube.com/vi/HifUM1FGUK8/0](https://youtu.be/5IU9eQ69PxY?si=P5fPyY-rtxjpfj6O).jpg)]([https://youtu.be/HifUM1FGUK8?t=0s](https://youtu.be/5IU9eQ69PxY?si=P5fPyY-rtxjpfj6O)) 
+[![시연 영상](http://img.youtube.com/vi/5IU9eQ69PxY/0.jpg)](https://www.youtube.com/watch?v=5IU9eQ69PxY)
 
 ## 시스템 아키텍처
 ![시스템아키텍처](assets/architecture.png)
