@@ -42,7 +42,7 @@
 <p><i>메인 페이지에서 실제 청약 계좌를 등록할 수 있습니다.</i></p>
 <p><i>예치금 충족률에 따라 캐릭터가 바뀌며, 원하는 평수대에 따른 예치금 충족률을 한 눈에 파악할 수 있습니다.</i></p>
   
-![image]()
+![image](assets/account_nonconnection.png) ![image](assets/account_connection.png)
 </div>
 </details>
 
